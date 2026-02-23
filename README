@@ -1,0 +1,21 @@
+### Install
+
+```bash
+npm install -g @neutralinojs/neu
+```
+
+---
+
+## Build
+
+```bash
+neu update
+```
+
+```bash
+neu build
+```
+
+---
+
+* Aplication built already included in dist folder!
