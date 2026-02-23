@@ -19,4 +19,4 @@ neu build
 ---
 
 * Aplication built already included in dist folder!
-* Now you can use un application online in: [[texto do link](https://jorgesouza.com.br/slidemaster/)]([https://exemplo.com](https://jorgesouza.com.br/slidemaster/))
+* Now you can use un application online in: [https://jorgesouza.com.br/slidemaster/](https://jorgesouza.com.br/slidemaster/)
